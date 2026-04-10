@@ -2,9 +2,6 @@
 
 > Batch mark all unviewed files in a GitHub Pull Request as "viewed" via the command line.
 
-[!\[npm version\](https://badge.fury.io/js/gh-pr-mark.svg null)](https://www.npmjs.com/package/gh-pr-mark)
-[!\[License: MIT\](https://img.shields.io/badge/License-MIT-yellow.svg null)](https://opensource.org/licenses/MIT)
-
 Tired of clicking through hundreds of files in a large PR just to mark them as viewed? `gh-pr-mark` automates this tedious task with a single command.
 
 - ✅ Uses GitHub's official GraphQL API
