@@ -1,0 +1,37 @@
+{
+  "name": "gh-pr-mark",
+  "version": "1.0.0",
+  "description": "批量将 GitHub PR 中未查看的文件标记为已查看",
+  "main": "dist/mark_all_reviewed.js",
+  "bin": {
+    "gh-pr-mark": "dist/mark_all_reviewed.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "github",
+    "pr",
+    "pull-request",
+    "review",
+    "cli",
+    "automation"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/gh-pr-mark.git"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "typescript": "^6.0.2"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "dist"
+  ]
+}
