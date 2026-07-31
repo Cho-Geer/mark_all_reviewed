@@ -1,1 +1,123 @@
-IyBnaC1wci1tYXJrCgo+IOOCs+ODnuODs+ODieODqeOCpOODs+OBi+OCieOAgUdpdEh1YiDjga4gUHVsbCBSZXF1ZXN0IOWGheOBruacqumWsuimp+ODleOCoeOCpOODq+OCkuOBvuOBqOOCgeOBpuOAjOmWsuimp+a4iOOBv+OAjeOBq+ODnuODvOOCr+OBl+OBvuOBmeOAggoK5aSn44GN44GqIFBSIOOBp+S9leeZvuOCguOBruODleOCoeOCpOODq+OCkiAxIOOBpOOBsuOBqOOBpOmWi+OBhOOBpuOAjOmWsuimp+a4iOOBv+OAjeOBq+OBl+OBpuOBhOOBj+S9nOalreOBq+OBhuOCk+OBluOCiuOBl+OBpuOBhOOBvuOBm+OCk+OBiz9gZ2gtcHItbWFya2Ag44GM44GC44KM44Gw44CB44GT44Gu6YCA5bGI44Gq5L2c5qWt44KSIDEg44Gk44Gu44Kz44Oe44Oz44OJ44Gn6Ieq5YuV5YyW44Gn44GN44G+44GZ44CCCgotIEdpdEh1YiDlhazlvI8gR3JhcGhRTCBBUEkg44KS5L2/55SoCi0g44OV44Kh44Kk44Or5pWw44GM44GE44GP44KJ44GC44Gj44Gm44KC44Oa44O844K444ON44O844K344On44Oz44KS5Yem55CGCi0g44G+44GgKirmnKrplrLopqcqKuOBruODleOCoeOCpOODq+OBruOBv+OCkuODnuODvOOCrwotIOODl+ODreOCsOODrOOCueODkOODvOOBqOS7u+aEj+OBruips+e0sOWHuuWKm+OCkuihqOekugoKIyMg44Kk44Oz44K544OI44O844OrCgpgYGBiYXNoCm5wbSBpbnN0YWxsIC1nIGdoLXByLW1hcmsKYGBgCgpbTm9kZS5qc10oaHR0cHM6Ly9ub2RlanMub3JnLykodjE0IOS7pemZjSnjgYzjgqTjg7Pjgrnjg4jjg7zjg6vjgZXjgozjgabjgYTjgovjgZPjgajjgpLnorroqo3jgZfjgabjgY/jgaDjgZXjgYTjgIIKCioqKgoKIyMg5YmN5o+Q5p2h5Lu2CgpgcmVwb2Ag44K544Kz44O844OX5LuY44GN44GuIEdpdEh1YiBQZXJzb25hbCBBY2Nlc3MgVG9rZW4g44GM5b+F6KaB44Gn44GZ44CC55Kw5aKD5aSJ5pWw44Go44GX44Gm6Kit5a6a44GX44Gm44GP44Gg44GV44GE44CCCgpgYGBTaGVsbApleHBvcnQgR0lUSFVCX1RPS0VOPXlvdXJfZ2l0aHViX3Rva2VuX2hlcmUKYGBgCgrjg4jjg7zjgq/jg7Pjga/mrKHjga7jg5rjg7zjgrjjgafnlJ/miJDjgafjgY3jgb7jgZk6IDxodHRwczovL2dpdGh1Yi5jb20vc2V0dGluZ3MvdG9rZW5zPgoKKioqCgojIyDkvb/jgYTmlrkKCmBgYFNoZWxsCmdoLXByLW1hcmsgLXJlcG8gPHJlcG8+IC1wciA8bnVtYmVyPiBbb3B0aW9uc10KYGBgCgpgLW9gIOOCquODl+OCt+ODp+ODs+OCkuecgeeVpeOBl+OBn+WgtOWQiOOAgeODquODneOCuOODiOODquOBruaJgOacieiAheOBr+ODiOODvOOCr+ODs+OBi+OCieiHquWLleeahOOBq+aOqOa4rOOBleOCjOOBvuOBmSjjgaTjgb7jgorjgIHjgYLjgarjgZ/oh6rouqvjga7jg6bjg7zjgrbjg7zlkI0p44CCCgojIyMg44Kq44OX44K344On44OzCgp8IOOCquODl+OCt+ODp+ODsyAgICAgICAgfCDoqqzmmI4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwKfCA6LS0tLS0tLS0tLS0tLS0tLSB8IDotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIHwKfCBgLW8gPG93bmVyPmAgICAgICB8IOODquODneOCuOODiOODquOBruaJgOacieiAhShPcmdhbml6YXRpb24g44G+44Gf44Gv44Om44O844K244O85ZCNKeOAgioq5Lu75oSPKiog4oCUIOaMh+WumuOBl+OBquOBhOWgtOWQiOOBryBgR0lUSFVCX1RPS0VOYCDjga7miYDmnInogIXjgYzkvb/nlKjjgZXjgozjgb7jgZnjgIIgfAp8IGAtcmVwbyA8cmVwbz5gICAgIHwg44Oq44Od44K444OI44Oq5ZCN44CCKirlv4XpoIgqKuOAgiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwKfCBgLXByIDxudW1iZXI+YCAgICB8IOODl+ODq+ODquOCr+OCqOOCueODiOeVquWPt+OAgioq5b+F6aCIKirjgIIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8CnwgYC0tb3V0LWRldGFpbGAgICAgfCDjg57jg7zjgq/jgZfjgZ/jg5XjgqHjgqTjg6vjgZTjgajjgavmiJDlip8v5aSx5pWX44GuIDEg6KGM44KS5Ye65Yqb44GX44G+44GZ44CC44OH44OV44Kp44Or44OI44Gn44Gv44OX44Ot44Kw44Os44K544OQ44O844Gu44G/44GM6KGo56S644GV44KM44G+44GZ44CCICAgICAgICAgICAgICB8CnwgYC1oLCAtLWhlbHBgICAgICAgfCDjg5jjg6vjg5fjg6Hjg4Pjgrvjg7zjgrjjgpLooajnpLrjgZfjgabntYLkuobjgZfjgb7jgZnjgIIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwKCiMjIyDnkrDlooPlpInmlbAKCnwg5aSJ5pWwICAgICAgICAgICAgfCDoqqzmmI4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfAp8IDotLS0tLS0tLS0tLS0tLSB8IDotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gfAp8IGBHSVRIVUJfVE9LRU5gICB8IGByZXBvYCDjgrnjgrPjg7zjg5fku5jjgY3jga4gR2l0SHViIFBlcnNvbmFsIEFjY2VzcyBUb2tlbuOAgiB8CgoqKioKCiMjIOS9v+eUqOS+iwoKIyMjIOiHquWIhuOBruODquODneOCuOODiOODquOBruWFqOODleOCoeOCpOODq+OCkuODnuODvOOCr+OBmeOCiwoKYGBgU2hlbGwKIyDjg4jjg7zjgq/jg7Pjga7miYDmnInogIXjgYzoh6rli5XnmoTjgavkvb/nlKjjgZXjgozjgb7jgZkKZ2gtcHItbWFyayAtcmVwbyBteS1wcm9qZWN0IC1wciA0MgpgYGAKCiMjIyBPcmdhbml6YXRpb24g44Gu44Oq44Od44K444OI44Oq44Gu44OV44Kh44Kk44Or44KS44Oe44O844Kv44GZ44KLCgpgYGBTaGVsbApnaC1wci1tYXJrIC1vIGZhY2Vib29rIC1yZXBvIHJlYWN0IC1wciAxMjM0CmBgYAoKIyMjIOWQhOODleOCoeOCpOODq+OBruips+e0sOWHuuWKm+OCkuihqOekuuOBmeOCiwoKYGBgU2hlbGwKZ2gtcHItbWFyayAtcmVwbyBteS1wcm9qZWN0IC1wciA0MiAtLW91dC1kZXRhaWwKYGBgCgojIyMgYC0tb3V0LWRldGFpbGAg5oyH5a6a5pmC44Gu5Ye65Yqb5L6LCgpgYGBTaGVsbArwn5SnIEVudmlyb25tZW50IGNoZWNrIHBhc3NlZArinIUgQXV0aGVudGljYXRlZCBhczogam9obmRvZQrwn46vIFRhcmdldDogam9obmRvZS9teS1wcm9qZWN0IFBSICM0MgrinIUgUFIgSUQ6IFBSX2t3RE94eHh4eHgK8J+UjSBGZXRjaGluZyBhbGwgdW52aWV3ZWQgZmlsZXMgKDEwMCBwZXIgcGFnZSkuLi4KICAgRmV0Y2hpbmcgcGFnZSAxLi4uIGZvdW5kIDU4IHVudmlld2VkCvCfk4sgRmlsZXMgdG8gbWFyazogNTgKClsxLzU4XSDinIUgIHNyYy9pbmRleC50cwpbMi81OF0g4pyFICBzcmMvdXRpbHMvaGVscGVyLnRzCi4uLgpbNTgvNThdIOKchSAgUkVBRE1FLm1kCgrinIUgRG9uZSEgU3VjY2VzczogNTgsIEZhaWxlZDogMApgYGAKCioqKgoKIyMg5LuV57WE44G/CgoxLiBgR0lUSFVCX1RPS0VOYCDjgpLkvb/jgaPjgaboqo3oqLzjgZfjgb7jgZnjgIIKMi4g44OX44Or44Oq44Kv44Ko44K544OI44GuIEdyYXBoUUwgSUQg44KS5Y+W5b6X44GX44G+44GZ44CCCjMuIFBSIOWGheOBruOBmeOBueOBpuOBruODleOCoeOCpOODq+OCkuODmuODvOOCuOODs+OCsOOBl+OAgWB2aWV3ZXJWaWV3ZWRTdGF0ZTogVU5WSUVXRURgIOOBruODleOCoeOCpOODq+OBruOBv+OCkuaKveWHuuOBl+OBvuOBmeOAggo0LiDmnKrplrLopqfjga7lkITjg5XjgqHjgqTjg6vjgavlr77jgZfjgaYgYG1hcmtGaWxlQXNWaWV3ZWRgIOODn+ODpeODvOODhuODvOOCt+ODp+ODs+OCkumAgeS/oeOBl+OBvuOBmeOAggo1LiDpgLLmjZfjgajmnIDntYLnmoTjgarntbHoqIjjgpLloLHlkYrjgZfjgb7jgZnjgIIKCuOBmeOBueOBpuOBriBBUEkg5ZG844Gz5Ye644GX44GvIEdpdEh1YiDjga7jg6zjg7zjg4jliLbpmZAo44Om44O844K244O8IDEg5Lq644GC44Gf44KKIDEg5pmC6ZaTIDUsMDAwIOODneOCpOODs+ODiCnjgpLlsIrph43jgZfjgb7jgZnjgILjg5XjgqHjgqTjg6vjgpIgMSDku7bjg57jg7zjgq/jgZnjgovjgZTjgajjgasgMSDjg53jgqTjg7Pjg4jjgYzmtojosrvjgZXjgozjgb7jgZnjgIIKCioqKgoKIyMg44Op44Kk44K744Oz44K5CgpNSVQgwqkgXFphY2ggVGFvCgotLS0KCiMjIPCfh6zwn4enIEVuZ2xpc2ggfCDwn4eo8J+HsyDkuK3mlocKCi0gW0VuZ2xpc2ggdmVyc2lvbl0oLi9SRUFETUUuZW4ubWQpCi0gW+S4reaWh+eJiOacrF0oLi9SRUFETUUuemgubWQpCg==
+# gh-pr-mark
+
+> コマンドラインから、GitHub の Pull Request 内の未閲覧ファイルをまとめて「閲覧済み」にマークします。
+
+大きな PR で何百ものファイルを 1 つひとつ開いて「閲覧済み」にしていく作業にうんざりしていませんか?`gh-pr-mark` があれば、この退屈な作業を 1 つのコマンドで自動化できます。
+
+- GitHub 公式 GraphQL API を使用
+- ファイル数がいくらあってもページネーションを処理
+- まだ**未閲覧**のファイルのみをマーク
+- プログレスバーと任意の詳細出力を表示
+
+## インストール
+
+```bash
+npm install -g gh-pr-mark
+```
+
+[Node.js](https://nodejs.org/)(v14 以降)がインストールされていることを確認してください。
+
+***
+
+## 前提条件
+
+`repo` スコープ付きの GitHub Personal Access Token が必要です。環境変数として設定してください。
+
+```Shell
+export GITHUB_TOKEN=your_github_token_here
+```
+
+トークンは次のページで生成できます: <https://github.com/settings/tokens>
+
+***
+
+## 使い方
+
+```Shell
+gh-pr-mark -repo <repo> -pr <number> [options]
+```
+
+`-o` オプションを省略した場合、リポジトリの所有者はトークンから自動的に推測されます(つまり、あなた自身のユーザー名)。
+
+### オプション
+
+| オプション        | 説明                                                                                                              |
+| :---------------- | :---------------------------------------------------------------------------------------------------------------- |
+| `-o <owner>`      | リポジトリの所有者(Organization またはユーザー名)。**任意** — 指定しない場合は `GITHUB_TOKEN` の所有者が使用されます。 |
+| `-repo <repo>`    | リポジトリ名。**必須**。                                                                                          |
+| `-pr <number>`    | プルリクエスト番号。**必須**。                                                                                    |
+| `--out-detail`    | マークしたファイルごとに成功/失敗の 1 行を出力します。デフォルトではプログレスバーのみが表示されます。              |
+| `-h, --help`      | ヘルプメッセージを表示して終了します。                                                                             |
+
+### 環境変数
+
+| 変数            | 説明                                                    |
+| :-------------- | :------------------------------------------------------ |
+| `GITHUB_TOKEN`  | `repo` スコープ付きの GitHub Personal Access Token。 |
+
+***
+
+## 使用例
+
+### 自分のリポジトリの全ファイルをマークする
+
+```Shell
+# トークンの所有者が自動的に使用されます
+gh-pr-mark -repo my-project -pr 42
+```
+
+### Organization のリポジトリのファイルをマークする
+
+```Shell
+gh-pr-mark -o facebook -repo react -pr 1234
+```
+
+### 各ファイルの詳細出力を表示する
+
+```Shell
+gh-pr-mark -repo my-project -pr 42 --out-detail
+```
+
+### `--out-detail` 指定時の出力例
+
+```Shell
+🔧 Environment check passed
+✅ Authenticated as: johndoe
+🎯 Target: johndoe/my-project PR #42
+✅ PR ID: PR_kwDOxxxxxx
+🔍 Fetching all unviewed files (100 per page)...
+   Fetching page 1... found 58 unviewed
+📋 Files to mark: 58
+
+[1/58] ✅  src/index.ts
+[2/58] ✅  src/utils/helper.ts
+...
+[58/58] ✅  README.md
+
+✅ Done! Success: 58, Failed: 0
+```
+
+***
+
+## 仕組み
+
+1. `GITHUB_TOKEN` を使って認証します。
+2. プルリクエストの GraphQL ID を取得します。
+3. PR 内のすべてのファイルをページングし、`viewerViewedState: UNVIEWED` のファイルのみを抽出します。
+4. 未閲覧の各ファイルに対して `markFileAsViewed` ミューテーションを送信します。
+5. 進捗と最終的な統計を報告します。
+
+すべての API 呼び出しは GitHub のレート制限(ユーザー 1 人あたり 1 時間 5,000 ポイント)を尊重します。ファイルを 1 件マークするごとに 1 ポイントが消費されます。
+
+***
+
+## ライセンス
+
+MIT © \Zach Tao
+
+---
+
+## 🇬🇧 English | 🇨🇳 中文
+
+- [English version](./README.en.md)
+- [中文版本](./README.zh.md)

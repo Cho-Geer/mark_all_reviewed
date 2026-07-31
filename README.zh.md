@@ -1,1 +1,123 @@
-IyBnaC1wci1tYXJrCgo+IOmAmui/h+WRveS7pOihjOaJuemHj+WwhiBHaXRIdWIgUHVsbCBSZXF1ZXN0IOS4reaJgOacieacquafpeeci+eahOaWh+S7tuagh+iusOS4uiLlt7Lmn6XnnIsi44CCCgrljozlgKbkuoblnKjkuIDkuKrlpKflnosgUFIg5Lit6YCQ5Liq54K55Ye75pWw55m+5Liq5paH5Lu25Y+q5Li65bCG5a6D5Lus5qCH6K6w5Li65bey5p+l55yLP2BnaC1wci1tYXJrYCDlj6/ku6XpgJrov4fkuIDkuKrlkb3ku6Toh6rliqjlrozmiJDov5nkuIDnuYHnkJDku7vliqHjgIIKCi0g5L2/55SoIEdpdEh1YiDlrpjmlrnnmoQgR3JhcGhRTCBBUEkKLSDoh6rliqjlpITnkIbku7vmhI/mlbDph48gUFIg5paH5Lu255qE5YiG6aG1Ci0g5LuF5qCH6K6w5LuN5aSE5LqOKirmnKrmn6XnnIsqKueKtuaAgeeahOaWh+S7tgotIOaYvuekuui/m+W6puadoeWSjOWPr+mAieeahOivpue7hui+k+WHugoKIyMg5a6J6KOFCgpgYGBiYXNoCm5wbSBpbnN0YWxsIC1nIGdoLXByLW1hcmsKYGBgCgror7fnoa7kv53lt7Llronoo4UgW05vZGUuanNdKGh0dHBzOi8vbm9kZWpzLm9yZy8pKHYxNCDmiJbmm7Tpq5jniYjmnKwp44CCCgoqKioKCiMjIOWJjeaPkOadoeS7tgoK6ZyA6KaB5LiA5Liq5YW35pyJIGByZXBvYCDmnYPpmZDojIPlm7TnmoQgR2l0SHViIFBlcnNvbmFsIEFjY2VzcyBUb2tlbuOAguivt+WwhuWFtuiuvue9ruS4uueOr+Wig+WPmOmHjzoKCmBgYFNoZWxsCmV4cG9ydCBHSVRIVUJfVE9LRU49eW91cl9naXRodWJfdG9rZW5faGVyZQpgYGAKCuaCqOWPr+S7peWcqOS7peS4i+WcsOWdgOeUn+aIkOS7pOeJjDogPGh0dHBzOi8vZ2l0aHViLmNvbS9zZXR0aW5ncy90b2tlbnM+CgoqKioKCiMjIOS9v+eUqOaWueazlQoKYGBgU2hlbGwKZ2gtcHItbWFyayAtcmVwbyA8cmVwbz4gLXByIDxudW1iZXI+IFtvcHRpb25zXQpgYGAKCuWmguaenOecgeeVpSBgLW9gIOmAiemhuSzku5PlupPmiYDmnInogIXlsIbku47mgqjnmoTku6TniYzkuK3oh6rliqjmjqjmlq0o5Y2z5oKo6Ieq5bex55qE55So5oi35ZCNKeOAggoKIyMjIOmAiemhuQoKfCDpgInpobkgICAgICAgICAgICAgfCDmj4/ov7AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfAp8IDotLS0tLS0tLS0tLS0tLS0gfCA6LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIHwKfCBgLW8gPG93bmVyPmAgICAgIHwg5LuT5bqT5omA5pyJ6ICFKOe7hOe7h+aIlueUqOaIt+WQjSnjgIIqKuWPr+mAiSoqIOKAlCDlpoLmnpzmnKrmj5Dkvpss5YiZ5L2/55SoIGBHSVRIVUJfVE9LRU5gIOeahOaJgOacieiAheOAgiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwKfCBgLXJlcG8gPHJlcG8+YCAgIHwg5LuT5bqT5ZCN56ew44CCKirlv4XloasqKuOAgiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8CnwgYC1wciA8bnVtYmVyPmAgICB8IFB1bGwgUmVxdWVzdCDnvJblj7fjgIIqKuW/heWhqyoq44CCICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwKfCBgLS1vdXQtZGV0YWlsYCAgIHwg5Li65q+P5Liq5qCH6K6w55qE5paH5Lu25omT5Y2w5oiQ5YqfL+Wksei0peihjOOAgum7mOiupOS7heaYvuekuui/m+W6puadoeOAgiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfAp8IGAtaCwgLS1oZWxwYCAgICAgfCDmmL7npLrluK7liqnkv6Hmga/lubbpgIDlh7rjgIIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwKCiMjIyDnjq/looPlj5jph48KCnwg5Y+Y6YePICAgICAgICAgICAgfCDmj4/ov7AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfAp8IDotLS0tLS0tLS0tLS0tLSB8IDotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gfAp8IGBHSVRIVUJfVE9LRU5gICB8IOWFt+aciSBgcmVwb2Ag5p2D6ZmQ6IyD5Zu055qEIEdpdEh1YiBQZXJzb25hbCBBY2Nlc3MgVG9rZW7jgIIgfAoKKioqCgojIyDnpLrkvosKCiMjIyDmoIforrDmgqjoh6rlt7Hku5PlupPkuK3nmoTmiYDmnInmlofku7YKCmBgYFNoZWxsCiMg6Ieq5Yqo5L2/55So5Luk54mM55qEIG93bmVyCmdoLXByLW1hcmsgLXJlcG8gbXktcHJvamVjdCAtcHIgNDIKYGBgCgojIyMg5qCH6K6w5p+Q5Liq57uE57uH5LuT5bqT5Lit55qE5paH5Lu2CgpgYGBTaGVsbApnaC1wci1tYXJrIC1vIGZhY2Vib29rIC1yZXBvIHJlYWN0IC1wciAxMjM0CmBgYAoKIyMjIOaYvuekuuavj+S4quaWh+S7tueahOivpue7hui+k+WHugoKYGBgU2hlbGwKZ2gtcHItbWFyayAtcmVwbyBteS1wcm9qZWN0IC1wciA0MiAtLW91dC1kZXRhaWwKYGBgCgojIyMgYC0tb3V0LWRldGFpbGAg6L6T5Ye656S65L6LCgpgYGBTaGVsbArwn5SnIEVudmlyb25tZW50IGNoZWNrIHBhc3NlZArinIUgQXV0aGVudGljYXRlZCBhczogam9obmRvZQrwn46vIFRhcmdldDogam9obmRvZS9teS1wcm9qZWN0IFBSICM0MgrinIUgUFIgSUQ6IFBSX2t3RE94eHh4eHgK8J+UjSBGZXRjaGluZyBhbGwgdW52aWV3ZWQgZmlsZXMgKDEwMCBwZXIgcGFnZSkuLi4KICAgRmV0Y2hpbmcgcGFnZSAxLi4uIGZvdW5kIDU4IHVudmlld2VkCvCfk4sgRmlsZXMgdG8gbWFyazogNTgKClsxLzU4XSDinIUgIHNyYy9pbmRleC50cwpbMi81OF0g4pyFICBzcmMvdXRpbHMvaGVscGVyLnRzCi4uLgpbNTgvNThdIOKchSAgUkVBRE1FLm1kCgrinIUgRG9uZSEgU3VjY2VzczogNTgsIEZhaWxlZDogMApgYGAKCioqKgoKIyMg5bel5L2c5Y6f55CGCgoxLiDkvb/nlKjmgqjnmoQgYEdJVEhVQl9UT0tFTmAg6L+b6KGM6Lqr5Lu96aqM6K+B44CCCjIuIOiOt+WPluivpSBQdWxsIFJlcXVlc3Qg55qEIEdyYXBoUUwgSUTjgIIKMy4g5YiG6aG16YGN5Y6GIFBSIOS4reeahOaJgOacieaWh+S7tizku4Xov4fmu6Tlh7ogYHZpZXdlclZpZXdlZFN0YXRlOiBVTlZJRVdFRGAg55qE5paH5Lu244CCCjQuIOWvueavj+S4quacquafpeeci+eahOaWh+S7tuWPkemAgeS4gOS4qiBgbWFya0ZpbGVBc1ZpZXdlZGAg5Y+Y5pu06K+35rGC44CCCjUuIOaKpeWRiui/m+W6puWSjOacgOe7iOe7n+iuoeS/oeaBr+OAggoK5omA5pyJIEFQSSDosIPnlKjpg73pgbXlvqogR2l0SHViIOeahOmAn+eOh+mZkOWItijmr4/kuKrnlKjmiLfmr4/lsI/ml7YgNSwwMDAg54K5KeOAguavj+agh+iusOS4gOS4quaWh+S7tua2iOiAlyAxIOeCueOAggoKKioqCgojIyDorrjlj6/or4EKCk1JVCDCqSBcWmFjaCBUYW8KCi0tLQoKIyMg8J+Hr/Cfh7Ug5pel5pys6KqeIHwg8J+HrPCfh6cgRW5nbGlzaAoKLSBb5pel5pys6Kqe54mIXSguL1JFQURNRS5tZCkKLSBbRW5nbGlzaCB2ZXJzaW9uXSguL1JFQURNRS5lbi5tZCkK
+# gh-pr-mark
+
+> 通过命令行批量将 GitHub Pull Request 中所有未查看的文件标记为"已查看"。
+
+厌倦了在一个大型 PR 中逐个点击数百个文件只为将它们标记为已查看?`gh-pr-mark` 可以通过一个命令自动完成这一繁琐任务。
+
+- 使用 GitHub 官方的 GraphQL API
+- 自动处理任意数量 PR 文件的分页
+- 仅标记仍处于**未查看**状态的文件
+- 显示进度条和可选的详细输出
+
+## 安装
+
+```bash
+npm install -g gh-pr-mark
+```
+
+请确保已安装 [Node.js](https://nodejs.org/)(v14 或更高版本)。
+
+***
+
+## 前提条件
+
+需要一个具有 `repo` 权限范围的 GitHub Personal Access Token。请将其设置为环境变量:
+
+```Shell
+export GITHUB_TOKEN=your_github_token_here
+```
+
+您可以在以下地址生成令牌: <https://github.com/settings/tokens>
+
+***
+
+## 使用方法
+
+```Shell
+gh-pr-mark -repo <repo> -pr <number> [options]
+```
+
+如果省略 `-o` 选项,仓库所有者将从您的令牌中自动推断(即您自己的用户名)。
+
+### 选项
+
+| 选项             | 描述                                                                                                          |
+| :--------------- | :------------------------------------------------------------------------------------------------------------ |
+| `-o <owner>`     | 仓库所有者(组织或用户名)。**可选** — 如果未提供,则使用 `GITHUB_TOKEN` 的所有者。                              |
+| `-repo <repo>`   | 仓库名称。**必填**。                                                                                           |
+| `-pr <number>`   | Pull Request 编号。**必填**。                                                                                  |
+| `--out-detail`   | 为每个标记的文件打印成功/失败行。默认仅显示进度条。                                                              |
+| `-h, --help`     | 显示帮助信息并退出。                                                                                            |
+
+### 环境变量
+
+| 变量            | 描述                                              |
+| :-------------- | :------------------------------------------------ |
+| `GITHUB_TOKEN`  | 具有 `repo` 权限范围的 GitHub Personal Access Token。 |
+
+***
+
+## 示例
+
+### 标记您自己仓库中的所有文件
+
+```Shell
+# 自动使用令牌的 owner
+gh-pr-mark -repo my-project -pr 42
+```
+
+### 标记某个组织仓库中的文件
+
+```Shell
+gh-pr-mark -o facebook -repo react -pr 1234
+```
+
+### 显示每个文件的详细输出
+
+```Shell
+gh-pr-mark -repo my-project -pr 42 --out-detail
+```
+
+### `--out-detail` 输出示例
+
+```Shell
+🔧 Environment check passed
+✅ Authenticated as: johndoe
+🎯 Target: johndoe/my-project PR #42
+✅ PR ID: PR_kwDOxxxxxx
+🔍 Fetching all unviewed files (100 per page)...
+   Fetching page 1... found 58 unviewed
+📋 Files to mark: 58
+
+[1/58] ✅  src/index.ts
+[2/58] ✅  src/utils/helper.ts
+...
+[58/58] ✅  README.md
+
+✅ Done! Success: 58, Failed: 0
+```
+
+***
+
+## 工作原理
+
+1. 使用您的 `GITHUB_TOKEN` 进行身份验证。
+2. 获取该 Pull Request 的 GraphQL ID。
+3. 分页遍历 PR 中的所有文件,仅过滤出 `viewerViewedState: UNVIEWED` 的文件。
+4. 对每个未查看的文件发送一个 `markFileAsViewed` 变更请求。
+5. 报告进度和最终统计信息。
+
+所有 API 调用都遵循 GitHub 的速率限制(每个用户每小时 5,000 点)。每标记一个文件消耗 1 点。
+
+***
+
+## 许可证
+
+MIT © \Zach Tao
+
+---
+
+## 🇯🇵 日本語 | 🇬🇧 English
+
+- [日本語版](./README.md)
+- [English version](./README.en.md)
